@@ -47,3 +47,29 @@ BDNR - Gloptic
 BDR - Tapricorn
 BE - Furcorn
 BEN - Sooza
+BENW - Blow't
+BEW - Spytrap
+BN - Flowah
+BNR - Rooba
+BNW - unknown
+BR - Bonkers
+BUDDY - Glowbe
+BUDDY_top - the top of Glowbe
+BW - Gob
+C - Noggin
+CD - Fwog
+CDE - T-rox
+CDEN - Tiawa
+CDN - Thrumble
+CDNV - Plinkadou
+CDV - Withur
+CE - Drumpler
+CEN - Ziggurab
+CENY - Pladdie
+CEY - unknown
+CN - Stogg
+CNV - Uuduk
+CNY - Bridg-It
+CV - Peckidna
+CY - HippityHop
+D - Toe Jammer
