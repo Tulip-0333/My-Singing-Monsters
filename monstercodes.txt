@@ -1,0 +1,49 @@
+My Singing Monsters monster filenames
++_RARE/+_EPIC means that the monster is rare or epic
+It seems that some of these monsters are from DoF
+A - Tweedle
+AB - Dandidoo
+ABC - Reedling
+ABCD - Shellbeat
+ABCDN - Candelavra
+ABCE - Quarrister
+ABCEN - Drummidary
+ABCN - Tring
+ABD - Spunge
+ABDE - Deedge
+ABDEN - Bowhead
+ABDN - Bisonorus
+ABE - Thumpies
+ABEN - Yelmut
+ABN - Barrb
+AC - Cybop
+ACD - Scups
+ACDE - Riff
+ACDEN - unknown, maybe unreleased.
+ACDN - Flum Ox
+ACE - PomPom
+ACEN - Krillby
+ACN - Floogull
+AD - Quibble
+ADE - unknown, I feel like I know this one but I forgot it's name.
+ADEN - Sneyser
+ADN - Whaddle
+AE - Pango
+AEN - Woolable
+AN - Glowl
+B - Potbelly
+BC - Shrubb
+BCD - Pummel
+BCDE - Entbrat
+BCDN - Edamimi
+BCE - Clamble
+BCEN - PongPing
+BCN - Repatillio
+BD - Oaktopus
+BDE - Bowgart
+BDEN - Incisaur
+BDN - Rootitoot
+BDNR - Gloptic
+BDR - Tapricorn
+BE - Furcorn
+BEN - Sooza
