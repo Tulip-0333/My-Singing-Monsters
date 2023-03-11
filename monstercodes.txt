@@ -119,3 +119,26 @@ P11 - Cranchee
 P12 - shLep
 P13 - unknown
 R - Theremind
+RV - Xyster
+RVW - G'day
+RVWY - Ehchantling
+RVY - Larvaluss
+RW - unknown, I know it's a thing but I forgot the name
+RWY - Frondley
+RY - Déjà-Jin
+S01 - Punkleton
+S02 - Yool
+S03 - Schmoochle
+S04 - Blabbit
+S05 - Hula
+S06 - Gobbleygourd
+S07 - Clavavera
+S08 - Viveine
+S09 - Jam Boree
+S10 - Carillong
+S11 - Whiz-bang
+S12 - Monculus
+S13 - Ffidyll
+S14 - Boo'qwurm
+S15 - Spurrit
+V - Clackula
