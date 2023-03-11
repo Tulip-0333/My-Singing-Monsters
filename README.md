@@ -14,7 +14,7 @@ The audio samples can be found in `path\to\steamapps\common\My Singing Monsters\
 
 ## Monster Files
 
-The monster files can be found in `path\to\steamapps\common\My Singing Monsters\data\gfx`. These files contain the images for each of the monsters in the game.
+The monster files can be found in `path\to\steamapps\common\My Singing Monsters\data\gfx` and `path\to\steamapps\common\My Singing Monsters\data\monsters`. These files contain the images for each of the monsters in the game.
 
 ## Contributing
 
