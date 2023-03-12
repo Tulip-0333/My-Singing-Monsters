@@ -8,9 +8,9 @@ The list of codenames is stored in the `monstercodes.txt` file in the root direc
 
 ## Audio Files
 
-In addition to the codenames, this repository also includes audio files for each of the monsters. The audio files are organized by their corresponding codename, and are in MP3 format.
+In addition to the codenames, this repository also includes audio files for each of the monsters. The audio files are organized by their corresponding codename, and are in MP3 format. The list is stored in the `audiocodes.txt` file in the root directory of this repository.
 
-The audio samples can be found in `path\to\steamapps\common\My Singing Monsters\data\audio`. To use the audio files, simply download the file for the corresponding codename and use it as needed.
+The audio samples can be found in `path\to\steamapps\common\My Singing Monsters\data\audio`. To use the audio files, simply find the file for the corresponding codename and use it as needed.
 
 ## Monster Files
 
