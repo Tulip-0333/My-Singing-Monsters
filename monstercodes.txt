@@ -123,7 +123,7 @@ RV - Xyster
 RVW - G'day
 RVWY - Ehchantling
 RVY - Larvaluss
-RW - unknown, I know it's a thing but I forgot the name
+RW - Cahoot
 RWY - Frondley
 RY - Déjà-Jin
 S01 - Punkleton
