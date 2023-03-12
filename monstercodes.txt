@@ -142,3 +142,22 @@ S13 - Ffidyll
 S14 - Boo'qwurm
 S15 - Spurrit
 V - Clackula
+VOC_01 - Tawkerr
+VOC_02 - Parlsona
+VOC_03 - Stoowarb
+VOC_04 - Magpi
+VW - Roarick
+VWY - Mushaboom
+VY - Osstax
+W - Fluoress
+WY - Knucklehead
+Y - Yawstrich
+Z01 - Shugabush
+Z02 - Shugabass
+Z03 - Shugitar
+Z04 - Shugajo
+Z05 - Shugarock
+Z06 - Shugabuzz
+Z07 - Shugabeats
+Z08 - Shugavox
+ENDING
