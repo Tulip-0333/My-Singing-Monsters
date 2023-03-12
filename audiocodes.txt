@@ -1,0 +1,25 @@
+My Singing Monsters monster filenames
+For codenames go to codenames.txt
+Plant Island
+01-B_Monster_01 - Potbelly
+01-B_Monster_02 - Potbelly 2
+01-Bass_0(1-3) - The bass
+01-BC_Monster_01 - Shrubb pt1
+01-BC_Monster_02 - Shrubb pt2
+01-BCD_Monster_01 - Pummel
+01-BCDE_Monster_01 - Entbrat
+01-BCE_Monster_01 - Clamble pt1
+01-BCE_Monster_02 - Clamble pt2
+01-BD_Monster_01 - Oaktopus
+01-BDE_Monster_01 - Bowgart pt1
+01-BDE_Monster_02 - Bowgart pt2
+01-BDE_Monster_03 - Bowgart pt3
+01-BE_Monster_01 - Furcorn
+01-Box_Monster_01 - Wubbox
+01-Box_Monster_dance_01(a|b) - Wubbox stepping
+01-C_Monster_01 - Noggin
+01-CD_Monster_01 - Fwog
+01-CDE_Monster_01 - T-Rox
+01-CE_Monster_01 - Drumpler
+01-Colossal_01 - Colossal pt1
+01-Colossal_02 - Colossal pt2
