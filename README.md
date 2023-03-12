@@ -1,25 +1,23 @@
-# My Singing Monsters Codenames
+# My Singing Monsters Assets
 
-This repository contains a list of codenames for the monsters in My Singing Monsters, along with their corresponding audio files.
+This repository contains various assets from the popular mobile game My Singing Monsters. These assets include sprite sheets, audio files, and more.
 
-## List of Codenames
+## Sprite Sheets
 
-The list of codenames is stored in the `monstercodes.txt` file in the root directory of this repository. Each line in the file corresponds to a different monster, with the codename followed by a colon and then the monster name.
+The `sprite_sheets` directory contains PNG sprite sheets for various monsters in the game. Each sprite sheet consists of multiple frames, representing the different animations of the monster.
 
 ## Audio Files
 
-In addition to the codenames, this repository also includes audio files for each of the monsters. The audio files are organized by their corresponding codename, and are in MP3 format. The list is stored in the `audiocodes.txt` file in the root directory of this repository.
+The `audio_files` directory contains various audio files used in the game, such as monster songs and sound effects. These files are in MP3 format.
 
-The audio samples can be found in `path\to\steamapps\common\My Singing Monsters\data\audio`. To use the audio files, simply find the file for the corresponding codename and use it as needed.
+## Other Assets
 
-## Monster Files
+The `other_assets` directory contains miscellaneous assets used in the game, such as backgrounds, fonts, and icons.
 
-The monster files can be found in `path\to\steamapps\common\My Singing Monsters\data\gfx` and `path\to\steamapps\common\My Singing Monsters\data\monsters`. These files contain the images for each of the monsters in the game.
+## Usage
 
-## Contributing
+Feel free to use these assets for personal or educational purposes. However, please do not use them for commercial purposes without obtaining permission from Big Blue Bubble, the developers of My Singing Monsters.
 
-If you have additional codenames or audio files to contribute to this repository, please submit a pull request.
+## Credits
 
-## License
-
-This project is not currently licensed. Use at your own risk.
+All assets in this repository are the property of Big Blue Bubble. This repository is not affiliated with or endorsed by Big Blue Bubble.
