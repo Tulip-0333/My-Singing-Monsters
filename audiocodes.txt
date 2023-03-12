@@ -23,3 +23,34 @@ Plant Island
 01-CE_Monster_01 - Drumpler
 01-Colossal_01 - Colossal pt1
 01-Colossal_02 - Colossal pt2
+01-D_Monster_01 - Toe Jammer
+01-DE_Monster_01 - Maw
+01-E_Monster_01 - Mammott
+01-F_Monster_01 - Epic Wubbox pt1
+01-F_Monster_01 - Epic Wubbox pt2
+01-G_Monster_01 - Ghazt pt1
+01-G_Monster_02 - Ghazt pt2
+01_O_Monster_01 - Rare Wubbox
+01-P02_Monster_01 - G'Joob
+01-Q_Monster_(1-35) - Dipsters
+01-S01_Monster_01 - Punkleton
+01-VOC_01_Monster_01 - Tawkerr saying "Everything here is alive"
+01-VOC_01_Monster_02 - Tawkerr saying "They sleep when it gets cold, and the leaves turn. They turn red and they turn gold. They need sunlight and water and earth and the air, to keep them alive. That's how plants grow (x2)"
+01-VOC_01_Monster_03 - Tawkerr saying "You plant a seed, it settles in, and then it bursts. And then it splits and makes a twin, then there were more. Look across the landscape, and you'll find"
+01-VOC_01_Monster_04 - Tawkerr saying "A bunch of plants! (x5, fading out)"
+01-VOC_01_Memory - Tawkerr saying "plants", used for memory.
+01-VOC_02_Monster_01 - Parlsona saying "Every monster knows how the plants grow. And every monster cares, and they know how they feed and they shape them, and they keep them alive. Let's watch plants grow. Let's watch plants grow.
+01-VOC_02_Monster_02 - Parlsona saying "Everything here is alive"
+01-VOC_02_Monster_03 - Parlsona saying "Everything here is alive, a note"
+01-VOC_02_Monster_04 - Parlsona saying "becomes a chord, becomes a phrase, becomes a melody, and a note becomes a monster"
+01-VOC_02_Monster_05 - Parlsona saying "You plant a seed, it settles in, and then it bursts, and then in splits and makes a twin, then there were more. Look across the landscape, and you'll find"
+01-VOC_02_Monster_06 - Parlsona saying "It's just a bunch of plants."
+01-VOC_02_Memory - Parlsona saying "Plants", used for memory.
+01-Z01_Monster_01 - Shugabush pt1
+01_Z01_Monster_01 - Shugabush pt2
+Cold Island
+02-A_Monster_01 - Tweedle
+02-AB_Monster_01 - Dandidoo
+02-ABD_Monster_01 - Sponge
+02-ABDE_Monster_01 - Wubbox
+02-
