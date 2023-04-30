@@ -1,6 +1,5 @@
 My Singing Monsters monster filenames
-+_RARE/+_EPIC means that the monster is rare or epic
-It seems that some of these monsters are from DoF
++_RARE/+_EPIC means that the monster is rare or epic, these aren't included.
 A - Tweedle
 AB - Dandidoo
 ABC - Reedling
@@ -86,7 +85,7 @@ ENW - Fiddlement
 ENY - unknown
 EW - Cataliszt
 EY - Squot
-F - Wubbox
+F - Epic Wubbox (?)
 G - Ghazt
 GJ - Whisp
 GK - Nebulob
